@@ -17,7 +17,7 @@ Esse desafio tem o objetivo de criar uma aplicação para gerenciar tarefas (em 
 - Navegue até o diretório principal do projeto
 
 ```
-> cd ignite-desafio-conceitos-nodejs
+> cd ignite-conceitos-do-nodejs
 ```
 
 - Instale as dependências com o Yarn
